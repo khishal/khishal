@@ -1,11 +1,5 @@
-### `.gitignore`
-
-```gitignore
 node_modules/
 .env
 data/cache.json
 .DS_Store
 Thumbs.db
-```
-
-Kalau sudah, **next**.
