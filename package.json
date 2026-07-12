@@ -1,0 +1,14 @@
+{
+  "name": "github-rpg-dashboard",
+  "version": "1.0.0",
+  "description": "Modern RPG GitHub Dashboard",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/fetchGithub.js",
+    "build": "node scripts/fetchGithub.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1"
+  }
+}
